@@ -2,7 +2,7 @@
 <h3 align="center">Informatics Student at Telkom University | Practicum Assistant | Software Development and UI/UX Design Enthusiast</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sayaio&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <h3 align="center">Languages:</h3>
